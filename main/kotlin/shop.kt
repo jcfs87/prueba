@@ -12,5 +12,7 @@ fun showClientes(){
         println(cliente)
     }
 }
-
+fun printCliente(){
+    println("hola clientes")
+}
 }
