@@ -12,5 +12,6 @@ fun main(args: Array<String>) {
     listaCompras.removeCliente()
     println("despues de borrar cliente")
     listaCompras.showClientes()
+    println("prueba de cambio")
 
 }
